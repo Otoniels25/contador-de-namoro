@@ -1,0 +1,45 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: #fff0f6;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+#contador {
+  font-size: 3em;
+  margin: 20px 0;
+  color: #d63384;
+}
+
+.frase {
+  font-style: italic;
+  color: #6f42c1;
+  margin-bottom: 30px;
+}
+
+.datas-marcantes {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1em;
+}
+
+.datas-marcantes li {
+  margin-bottom: 10px;
+}
+
+.galeria {
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #888;
+}
